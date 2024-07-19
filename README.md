@@ -1,10 +1,14 @@
 - 👋 Hi, I’m @Mumoh254
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...application development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...peteritumo2030@gmail.com
+welcome  to  my  Github Account  ,  A  fullstack  developer's
+journey  in  software  Engineering Programme.
+
+Am a  car Gamer  && Tech  Enthusiast In Africa:
+
+- 📫 How to reach me ..
+- .peteritumo2030@gmail.com
 -  +254740045355
-- 😄 Pronouns: ...
+                    
+  
 - ⚡ Fun fact: ...
   
 <!---
