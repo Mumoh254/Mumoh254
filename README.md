@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mumoh254
-welcome  to  my  Github Account  ,
-A  fullstack  developer's
+- 👋 Hi, 
+welcome  to  my  Github Account,
+A  fullstack  developer's,
 journey  in  software  Engineering Programme.
 
 Am a  car Gamer  && Tech  Enthusiast In Africa:
