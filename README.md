@@ -10,6 +10,9 @@ Am a  car Gamer  && Tech  Enthusiast In Africa:
                     
   
 - ⚡ Fun fact: ...
+
+- ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+- 
   
 <!---
 Mumoh254/Mumoh254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
