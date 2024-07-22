@@ -6,7 +6,7 @@ journey  in  software  Engineering Programme.
 Am a  car Gamer  && Tech  Enthusiast In Africa:
 
 
-                    name: Piyush Malhotra
+    name: Peter Mumo
 located_in: Nairobi , Kenya
 current_job: Full Stack Developer
 education:
