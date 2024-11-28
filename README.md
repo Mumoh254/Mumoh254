@@ -1,49 +1,9 @@
-- 👋 Hi, 
-welcome  to  my  Github Account,
-A  fullstack  developer's,
-journey  in  software  Engineering Programme.
+#CØmrade
+On my own path
 
-Am a  car Gamer  && Tech  Enthusiast In Africa:
-
-
-    name: Peter Mumo
-located_in: Nairobi , Kenya
-current_job: Full Stack Developer
-education:
-  [
-    "Self-Taught Developer and Designer",
-                                      
-  ]
-company: "
-
-fields_of_interests:
-  [
-    "Web Development",                
-    "Machine Learning",
-    "UI/UX",                     
-    "DevOps",
-  ]
-technical_background:
-  [
-    "Full Stack Developer"
-    "DevOps Solutions Architect",
- 
-  ]
-  
-currently_learning: ["Docker, Kubernetes, and React Native"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
-  
-- ⚡ Fun fact: ...
+👋 Hi, I’m Peter Mumo  👀 I’m a Web Developer. ✝️ I’m currently learning MSQL  am  an  individual  passionate  about  technology  research  and  building  a  sustainable   development  in  the  health and renewable  energy  sectors 🌱 I’m currently learning  mobile  app  development , Neaural Networks  in  brain.js  React & Express.js. 💞️ I’m looking to collaborate on Open Source projects, wonderful AI projects . 📫 How to reach me Email: peteritumo2030@gmail.com
+stats graph languages graph
 
 
-
-- 📫 How to reach me ..                    
-  
-- .peteritumo2030@gmail.com
-- +254740045355
-
-Mumoh254/Mumoh254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+javascript logo  typescript logo  react logo  html5 logo  css3 logo  python logo  csharp logo
+youtube logo instagram logo twitch logo discord logo gmail logo linkedin logo
